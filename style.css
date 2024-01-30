@@ -1,0 +1,46 @@
+header{
+    background-color: black;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header-right a{
+    color: white;
+    text-decoration: none;
+   
+    
+}
+.header-right{
+    width: 383px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.lol{
+    height: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.lol1{
+    text-align: center;
+    
+}.img1{
+    width: 393px;
+height: 230px;
+border-radius: 20px;
+}
+.h1{
+    text-align: center;
+}
+.hazrat{
+    width: 393px;
+}
+.container1{
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
